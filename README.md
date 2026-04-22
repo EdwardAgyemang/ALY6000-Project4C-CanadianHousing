@@ -29,7 +29,7 @@ ALY6000-Project4C-CanadianHousing/
 ├── script/
 │   └── EdwardAgyemang_Project4C_Script.R     ← Full R analysis script
 │
-├── visualizations/
+├── 
 │   ├── viz1_province_median_price.png         ← Median price by province
 │   ├── viz2_top15_cities_price.png            ← Top 15 most expensive cities
 │   ├── viz3_income_vs_price_scatter.png       ← Income vs. Price risk map
@@ -79,37 +79,37 @@ ALY6000-Project4C-CanadianHousing/
 ## 📊 Visualizations
 
 ### Viz 1 — Median Listing Price by Province
-![Viz 1](visualizations/viz1_province_median_price.png)
+![Viz 1](viz1_province_median_price.png)
 > British Columbia leads at **$950,000** — nearly **2.7x** higher than Saskatchewan and New Brunswick (~$350K).
 
 ---
 
 ### Viz 2 — Top 15 Cities by Median Listing Price
-![Viz 2](visualizations/viz2_top15_cities_price.png)
+![Viz 2](viz2_top15_cities_price.png)
 > All top 5 most expensive cities are in BC. White Rock leads at **$1,531,950**. Toronto ranks 8th at **$899,000**.
 
 ---
 
 ### Viz 3 — Median Family Income vs. Median Listing Price (City Risk Map)
-![Viz 3](visualizations/viz3_income_vs_price_scatter.png)
+![Viz 3](viz3_income_vs_price_scatter.png)
 > Cities **above the red regression line** are overpriced relative to local incomes — a key mortgage risk indicator. White Rock, Vancouver, and Abbotsford are the most extreme outliers.
 
 ---
 
 ### Viz 4 — Housing Affordability Ratio: Top 20 Least Affordable Cities
-![Viz 4](visualizations/viz4_affordability_ratio.png)
+![Viz 4](viz4_affordability_ratio.png)
 > The red dashed line marks the internationally recognised **5x affordability threshold**. White Rock's ratio of **21x** means a family would need 21 years of full income to afford the median home.
 
 ---
 
 ### Viz 5 — Housing Market Composition by Province
-![Viz 5](visualizations/viz5_price_tier_by_province.png)
+![Viz 5](viz5_price_tier_by_province.png)
 > BC has **46% of listings priced over $1M**. Saskatchewan has **74% priced under $500K**. Shows the structural makeup of each provincial market.
 
 ---
 
 ### Viz 6 — Canada's Most vs. Least Affordable Cities
-![Viz 6](visualizations/viz6_most_vs_least_affordable.png)
+![Viz 6](viz6_most_vs_least_affordable.png)
 > Side-by-side comparison. Most affordable: **Regina (3.33x)**, Edmonton (3.64x), Saint John (4.04x). Least affordable: **White Rock (21x)**, Vancouver (13.3x), Abbotsford (12.1x).
 
 ---
