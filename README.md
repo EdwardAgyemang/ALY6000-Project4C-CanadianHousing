@@ -26,20 +26,19 @@ The dataset was sourced from Kaggle and covers 9 Canadian provinces. All data cl
 ```
 ALY6000-Project4C-CanadianHousing/
 │
-├── script/
-│   └── EdwardAgyemang_Project4C_Script.R     ← Full R analysis script
+├── EdwardAgyemang_Project4C_Script.R          ← Full R analysis script
+├── EdwardAgyemang_Project4C_Report.pdf        ← Full PDF analysis report
+├── EdwardAgyemang_Project4C_Slides.pptx       ← Presentation slide deck (10 slides)
 │
-├── 
-│   ├── viz1_province_median_price.png         ← Median price by province
-│   ├── viz2_top15_cities_price.png            ← Top 15 most expensive cities
-│   ├── viz3_income_vs_price_scatter.png       ← Income vs. Price risk map
-│   ├── viz4_affordability_ratio.png           ← Affordability ratio — top 20
-│   ├── viz5_price_tier_by_province.png        ← Market composition by province
-│   └── viz6_most_vs_least_affordable.png      ← Most vs. Least affordable cities
+├── viz1_province_median_price.png             ← Median price by province
+├── viz2_top15_cities_price.png                ← Top 15 most expensive cities
+├── viz3_income_vs_price_scatter.png           ← Income vs. Price risk map
+├── viz4_affordability_ratio.png               ← Affordability ratio — top 20
+├── viz5_price_tier_by_province.png            ← Market composition by province
+├── viz6_most_vs_least_affordable.png          ← Most vs. Least affordable cities
 │
-├── report/
-│   └── EdwardAgyemang_Project4C_Report.pdf   ← Full PDF analysis report
-│
+├── ALY_6000_Project_4.pdf                     ← Project instructions
+├── .gitignore                                 ← Excludes dataset CSV
 └── README.md
 ```
 
